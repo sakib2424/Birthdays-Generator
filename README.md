@@ -1,0 +1,2 @@
+# Birthdays-Generator
+Apparently, in a set of 23 randomly chosen people, there's a pretty good chance that two of those people will have the same birthday! Yes, it's actually true, and it's called the Birthday Problem or the Birthday Paradox. betterexplained.com has a good write-up on why, but we'll use a computer simulation to approximate this probability. We'll create tools to randomly generate dates, and then we'll see if any month and day combinations match.
